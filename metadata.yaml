@@ -1,5 +1,8 @@
 _repo: Rajah-Brooke-b-the-englishman-as-ruler-of-an-eastern-state_70688
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70688-h/images/cover.jpg
 creator:
   author:
     agent_name: St. John, Spenser, Sir
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54851
     wikipedia: https://en.wikipedia.org/wiki/Spenser_St._John
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70688#Rajah-Brooke-b-the-englishman-as-ruler-of-an-eastern-state
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70688'
